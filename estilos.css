@@ -1,0 +1,38 @@
+body {
+        font-family: Arial, sans-serif;
+        max-width: 1000;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    h1 {
+        color: darkblue;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    h2 {
+        color: darkred;
+    }
+
+    header {
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+section {
+    border: 1px solid #cccccc;
+    margin: 20px;
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #eeeeee;
+}
+
+h1 {
+    color: purple;
+}
